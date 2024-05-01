@@ -6,7 +6,7 @@ Research method coursework2
 The figure shows the correlation matrix of a numerical data. The matrix displays the correlation between different mean variables (such as mean_ghgs, mean_land, mean_watscar, mean_eut, mean_ghgs_ch4, mean_ghgs_2o, mean_bio, mean_watuse, and mean-acid).
 
 
-I have designed interactive charts, and you can view their data changes by clicking on different labels, and I will demonstrate this in the video.
+I have designed interactive charts, and you can view their data changes by clicking on different labels, and I will demonstrate this in the video.  Youtube:https://www.youtube.com/watch?v=KQq_5Q--p-8&t=2s
 ![newplot (3)](https://github.com/hongxu2024/RM_cw2/assets/159952847/5812b60f-d46c-4091-8d83-268ef8107c8a)
 
 This chart is a box plot that displays the distribution of scaled values for different environmental variables (mean_ghgs, mean_land, mean_watcar, mean_eut, mean_ghgs_ch4, mean_ghgs_2o, mean_bio, mean_watuse, mean-acid) based on individual gender (female, male), age range (20-29, 30-39, 40-49, 50-59, 60-69, 70-79), and meat consumption level (<50, 50-99).
